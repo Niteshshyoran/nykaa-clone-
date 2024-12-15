@@ -1,0 +1,89 @@
+/* .product-slider {
+    padding: 20px;
+    background-color: #f7f5f2;
+  }
+  
+  .slider-banner {
+    text-align: center;
+    background: url("path-to-banner-image.jpg") no-repeat center center / cover;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+  }
+  
+  .slider-banner h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .slider-banner p {
+    font-size: 16px;
+    margin: 5px 0 0;
+  }
+  
+  .slider-products {
+    display: flex;
+    gap: 20px;
+    overflow-x: scroll;
+    padding: 20px 0;
+  }
+  
+  .product-card {
+    background: white;
+    width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+  }
+  
+  .offer-badge {
+    position: absolute;
+    background: #ffd700;
+    padding: 4px 8px;
+    border-radius: 4px;
+    top: 10px;
+    left: 10px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .product-image {
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .product-info {
+    padding: 10px;
+  }
+  
+  .rating {
+    font-size: 12px;
+    color: #666;
+    margin: 0;
+  }
+  
+  .product-name {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .product-size {
+    font-size: 12px;
+    color: #888;
+  }
+  
+  .price {
+    font-size: 14px;
+    margin: 5px 0 0;
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+    color: #999;
+    margin-left: 5px;
+  }
+   */
