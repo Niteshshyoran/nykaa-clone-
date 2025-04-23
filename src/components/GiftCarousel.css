@@ -1,0 +1,49 @@
+.gift-carousel {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .gift-text {
+    margin-bottom: 20px;
+  }
+  
+  .gift-text h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .gift-text p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .gift-text hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+  }
+  
+  .gift-images {
+    display: flex;
+    width: 100dvh;
+    gap: 10px;
+  }
+  
+  .gift-images img {
+    width: 100dvh;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .gift-slider {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px; 
+  
+  }
+  
+  .gift-slider img {
+    border-radius: 15px;
+    width: 100%;
+  }
